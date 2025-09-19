@@ -10,7 +10,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      Front-end and back-end development are my areas of expertise, giving me an in-depth understanding of the entire web development process. From responsive design and user interface development with HTML, CSS, and JavaScript to server-side scripting with technologies such as Node.js and Express.js, I am skilled in handling a variety of projects.
+      Front-end and back-end development are my areas of expertise, giving me an in-depth understanding of the entire web development process. From responsive design and user interface development with HTML, CSS, and JavaScript to server-side scripting with technologies such as Node.js and Express.js, I am skilled in handling a variety of projects. Alongside this, I work with Generative AI, vector databases, and Retrieval-Augmented Generation (RAG) techniques to build intelligent and efficient applications.
     </SectionText>
     <List>
       <ListItem>

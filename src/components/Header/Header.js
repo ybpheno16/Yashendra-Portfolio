@@ -5,6 +5,7 @@ import { DiCssdeck } from 'react-icons/di';
 import { SiLeetcode } from "react-icons/si";
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 import { SiGeeksforgeeks } from "react-icons/si";
+import { SiCodeforces } from "react-icons/si";
 
 
 const Header = () =>  (
@@ -39,18 +40,27 @@ const Header = () =>  (
   rel="noopener noreferrer">
         <AiFillGithub size="3rem"/>
       </SocialIcons>
+
       <SocialIcons href='https://www.linkedin.com/in/yashendrabadal/' target="_blank" 
   rel="noopener noreferrer">
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
+
+        <SocialIcons href='https://codeforces.com/profile/phoenix_2232' target="_blank" 
+  rel="noopener noreferrer">
+        <SiCodeforces size="3rem"/>
+      </SocialIcons>
+
       <SocialIcons href='https://leetcode.com/u/YashendraBadal/' target="_blank" 
   rel="noopener noreferrer">
         <SiLeetcode size="3rem" />
       </SocialIcons>
+
       <SocialIcons href='https://www.geeksforgeeks.org/user/badal_cloud9/' target="_blank" 
   rel="noopener noreferrer">
         <SiGeeksforgeeks size="3rem"/>
       </SocialIcons>
+
     </Div3>
   </Container>
 );
