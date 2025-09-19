@@ -25,6 +25,15 @@ export const projects = [
     code: 'https://github.com/ybpheno16/ECOMZY',
     visit: 'https://ecomzy-one.vercel.app/',
     id:2,
+  },
+  {
+    title: 'Hostel Buddy',
+    description: "Hostel Buddy is a web app that enables students to securely borrow and lend items within the college community, featuring authentication, role-based access, and email notifications for seamless item exchanges.",
+    image: '/images/HostelBuddy.png',
+    tags: ['React', 'Redux', 'Tailwind', 'MongoDB', 'Express.JS'],
+    code: 'https://github.com/ybpheno16/HostelBuddy-FullStack-WebApp',
+    visit: 'https://hostelbuddy-nine.vercel.app/',
+    id:2,
   }
 
   
@@ -32,6 +41,6 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2021, text: 'Joined Indian Institute of Information Technology Kottayam for BTech' },
-  { year: 2023, text: 'Joined @Zaxix Products Pvt Ltd as a Fullstack Web Developer Intern' },
-  { year: 2024, text: 'Web Development Intern at @CodeAlpha' }
+  { year: 2024, text: 'Joined @UnlockDiscounts as a Fullstack Developer Intern' },
+  { year: 2025, text: 'Joined @Mondee as an SDE Intern ' }
 ];
